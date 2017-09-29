@@ -1,0 +1,940 @@
+LOL
+i fixed a bug in a scala project at linkedin once
+thats it
+Ari Falkner
+Ah
+It looks fun
+Jason
+btw dolo tomo at 11
+join
+bring weeds and alc
+Ari Falkner
+Okay
+Jason
+kk
+man dream was fun
+since i was using 21st century tech
+the ship was basically invincible
+enemy shells barely make a dent in the armor
+oh also had active armor
+what they use in tanks nowadays
+the armor is lined with explosive charges
+when it detects a shell is about to hit it
+the charges detonate outwards
+and the explosion pushes the enemy shell a bit
+and robs it of a lot of its momentum
+its extremely effective
+nuclear reactor so we can stay out at sea months at a time
+and only have to resupply toget food
+deslination plants
+only possible with the massive power production of nuclear reactor
+targetting computers
+radar sonar
+cruise missiles and SAM batteries
+Ari Falkner
+Lol much better than diesel
+Jason
+yea
+you know wwii era submarines were diesel and electric
+Ari Falkner
+Diesel uses air
+Jason
+when surfaced they used diesel
+yeah
+Ari Falkner
+So couldn't be under water
+Jason
+but when submersed they cant
+so used electric
+Ari Falkner
+Yeah
+Jason
+but battery tech was shit back then
+and can only operate for a little bit
+before having to resurface and recharge
+Ari Falkner
+Did diesel charge the battery?
+Jason
+yeah
+so they can only stay underwater like a few hours at a time i tink
+when nuclear subs came out
+it was a huge improvement
+can now stay underwater forever
+until run out of food
+rocketry also big deal
+tactically
+i coulda brought back helicopter tech too
+that'd tear apart the battlefield
+battle of the
+uhh
+shoot what was it called
+the giant tank battle
+kursk
+battle of kursk
+stalemate woulda been broken so quickly with attack helicopters
+there was a reddit story a while back
+fiction story
+someone wrote about a small detachment of US marines get timetraveled to roman empire
+story ended right in the middle of a small skirmish where the marines destroyed some legionaries
+apparently he signed with some small movie studio and was gonna film a movie from it
+but that was years ago
+not sure wehat happened
+let me google
+Ari Falkner
+Wow
+Jason
+oh
+it wasnt a small studio
+was warner brothers
+!
+https://en.wikipedia.org/wiki/Rome,_Sweet_Rome
+so its gonna be a big budget movie
+im pretty excited
+the premise is they have their equipment including some tanks
+but no way to resupply
+tactically speaking theres no way they can last very long
+but if they play politics properly
+and use very strategic shows of force they could bluff their way into power maybe
+and then industrialize the society to help them resupply
+i wonder which direction the author is going to take it
+actually this woudl be a fun video game
+you are dropped off in an ancient world
+and you have modern equip
+maybe you are given a lot of engineering equipment too
+so you can slowly rebuild
+Ari Falkner
+Sounds like civ in a sense
+Jason
+nono
+not strategic game
+like
+first person game
+or 3rd person works too
+you run around and fight enemies
+would be cool to see how well you can do
+say you get a rifle
+and say you built up a small base so youc an reconstruct ammo
+and you fight enemies with swords and stuff
+JUN 23RD, 3:06PM
+
+Jason
+story from first time i coded in js
+i only coded in java at this point
+and i thought
+ok i want to print out a variable so i can debug
+so i typed
+print(variable);
+i refreshed the webpage
+and my printer turned on and started making noises
+i looked over
+it printed out the variable
+LOOL
+then i learned to use alert();
+(this is before console.log was invented)
+Ari Falkner
+Hahahaha
+Really? Console.log is new?
+Jason
+extremely new
+it was a firebug feature for the longest time
+and then chrome dev tools adopted it
+and then eventually every browser started adding it natively
+Ari Falkner
+But it's not part of ecma?
+Jason
+dont think so
+might be now
+but not sure
+i remember for the longest time you had to write code like
+if (console && console.log) {
+    console.log(
+}
+etc
+Ari Falkner
+Oh god
+Because not all browsers had console?
+Jason
+no at that time
+no browser had console
+the only console we had was firebug
+so if your user happened to download firebug
+JUN 23RD, 5:09PM
+
+Ari Falkner
+Oh god
+Ari Falkner
+What if kenan comes to brisket?
+Jason
+no
+absolutely not
+Ryan would be really mad
+there's not many things that I would say absolutely not to
+but this is one of them
+Ari Falkner
+Okay
+Jason
+ya just
+don't invite him to any of our hang outs
+Ari Falkner
+Chyll
+Jason
+
+not Chull
+like actually
+Jason
+you might get to meet max
+older Ari LOL
+he's similar to you
+Ari Falkner
+Lol hanging with kenan first
+Not gonna be there rn
+Jason
+is o
+when come
+Ari Falkner
+No clie
+Clue
+Jason
+blue
+Jason
+here with max
+you will love him
+Ari Falkner
+Kenan is coming with me
+Jason
+sorry then don't come
+Jason
+you come tho
+meet max
+Keenan no
+Ari Falkner
+Okay if I can get some brisket
+Jason
+ya we have tons
+don't bring k
+you come
+get meat
+Ari Falkner
+K
+Jason
+now
+Yas
+Jason
+where
+JUN 23RD, 9:51PM
+
+Jason
+come rn
+come
+come at
+f
+come af
+Jason
+Shabou missed a call from you.
+June 23rd, 9:52pm
+Call Again
+Jason
+Shabou missed a call from you.
+June 23rd, 9:59pm
+Call Again
+JUN 23RD, 11:43PM
+
+Jason
+
+where
+where rn
+AF
+Ari Falkner
+Abv
+Leaving soon
+Jason
+where
+You waved at Ari!
+You and Ari waved at each other!
+JUN 24TH, 10:09AM
+
+Ari Falkner
+Is Dolores gonna have food?
+Jason
+bring some
+Jason
+ready?
+come down
+Ari Falkner
+We gonna motorcycle there
+Jason
+no
+how you gonna drink and smoke then
+Ari Falkner
+Not gonna really
+Jason
+why not
+Ari Falkner
+We gonna go to Palo Alto for a pool party
+Jason
+oh what time
+Ari Falkner
+1pm or so
+Jason
+I see
+k see you there then
+Ari Falkner
+Might drink a beer or two
+😮
+1
+Jason
+k
+Jason
+ari where
+Ari Falkner
+Be there in 20
+Jason
+
+Jason
+mission  bowling t
+eat
+meet there
+JUN 24TH, 1:28PM
+
+Jason
+You requested
+50.00
+For
+you and jenny
+Status
+Paid·Jun 24th, 1:28pm
+Ari Falkner
+50.00
+For
+you and jenny
+Status
+Completed·Jun 24th, 1:28pm
+Ari Falkner
+We here
+Jason
+getting drinks brt
+Jason
+where you
+where
+Jason
+You called Shabou.
+June 24th, 2:08pm
+Call Again
+Jason
+20.00
+Status
+Paid·Jun 24th, 2:40pm
+JUN 24TH, 3:52PM
+
+Jason
+
+Ari Falkner
+??
+Jason
+o dud
+ari pics of pool
+what if is a lie
+Ari Falkner
+
+JUN 24TH, 5:48PM
+
+Jason
+
+thanks
+not a lie
+JUN 24TH, 7:00PM
+
+Jason
+
+Ari Falkner
+Fuck
+Got it died?
+Jason
+dyed
+JUN 24TH, 10:10PM
+
+Jason
+wat doing
+Ari Falkner
+At Palo Alto
+Jason
+o
+Jason
+pics
+Jason
+communism when?
+JUN 25TH, 12:49AM
+
+Ari Falkner
+True
+Jason
+
+JUN 25TH, 10:15AM
+
+Jason
+what doing
+I visit parents later but may drive through mountains
+you join on bike?
+Ari Falkner
+Sure
+When?
+Jason
+dunno
+noonish?
+maybe a bit later
+Ari Falkner
+Be back in SF on an hour
+Jason
+sg
+JUN 25TH, 12:09PM
+
+Ari Falkner
+Okay
+What is plan?
+Jason
+oh come down
+we discuss here
+Ari Falkner
+I'm at fisherman's wharf
+Should I head over?
+ETA like 10 min
+Jason
+OK come
+Ari Falkner
+Kk
+Jason
+to my apt and we can go
+Ari Falkner
+Kk
+Jason
+call if I don't open door
+it's loud
+Ari Falkner
+Kk
+What is loud?
+Pride?
+Fuck it says ETA 30
+Min
+Jason
+30 is fine
+
+LOL
+Jason
+where
+Jason
+4355 Skyline Blvd, Redwood City, CA 94062
+724 El Camino Real, South San Francisco, CA 94080
+Jason
+Shabou missed a call from you.
+June 25th, 1:02pm
+Call Again
+Jason
+chm
+Jason
+where
+where
+hungry af
+Jason
+we here
+Ari Falkner
+Fuck I missed the exit
+15 min eta
+Ari's Location
+Jason
+we waiting in line
+will just order for you
+JUN 25TH, 4:18PM
+
+Jason
+whee
+Ari Falkner
+Pick up phone
+JUN 25TH, 8:21PM
+
+Jason
+true
+nut yeast
+JUN 25TH, 10:48PM
+
+Jason
+are you home
+do you have a lamp?
+LOL
+i was gonna draw but then realized i dont have a lamp
+LOOOL
+Ari Falkner
+Yes I do but for my bedroom
+Jason
+ah its cool
+im just using my iphone flashliught now
+i put hte phone on a box
+LOL
+jank af
+Ari Falkner
+Can I get my Camelback?
+Jason
+where is it
+fuck
+Ari Falkner
+In your main room?
+Jason
+im rusty af at drawing
+like on basic techniques
+ugh
+Ari Falkner
+How Rusty?
+Jason
+havent drawn seriously for like 15 years ors omething
+LOL
+Ari Falkner
+But like the one of your car from two years ago was pretty good
+Jason
+basic tecniques tho
+when you draw lines
+the line should begin light and end light
+with only the middle being dark
+and no hooks or points anywhere
+even when drawing very short lines
+cnat do that as well anymore
+Ari Falkner
+
+Jason
+anyway
+come get
+i remember when i first took art class
+for a long while
+he was just like
+go home
+draw 1000 lines
+keep doing every week until it looks ok
+then afetr weeks of that shit
+hes like ok
+now draw circle
+keep drawing cirlces until it looks good
+LOl
+after long ass time
+hes like ok fine now you are ready to draw some real stuff
+draw a circle and then shade it in
+LOL
+drills af
+fuck i fucked up
+drew from right to left
+ooops
+JUN 26TH, 9:08AM
+
+Jason
+Play	
+-4:25
+Additional Visual SettingsEnter Fullscreen	Unmute
+
+Victory Church added a new video: Bad Dad Jokes.
+Check out today's hilarious "(Really) Bad Dad Jokes" video! Happy Father's Day! #fathersdayatvictory #livemovebe #funandfulloflife #victoryokc
+Victory Church
+JUN 26TH, 1:46PM
+
+Jason
+true
+true when
+true rn
+rekt
+Jason
+aite
+https://www.facebook.com/events/117146575548458/permalink/123292491600533/?comment_id=123292788267170&notif_t=event_mall_comment&notif_id=1498511009525213
+TL;DR: Meet at AVA (55 9th st, sf) at noon. I'll go get the oysters in the morning. Update! So Tomales Bay picnicking is still closed, and hog island has no reservations available for 4 months. I'll go grab the oysters in the morning and we can eat it at the roof deck at Ava (my apartment on 9th Street)! 55 9th St
+Jason Jiang
+im gonna go get oysters in the morning like lsat time
+you come?
+we leave at maybe 8
+Ari Falkner
+Kk
+Jason
+kk
+Ari Falkner
+So mad
+Jason
+why mad LOL
+Ari Falkner
+Wtf is this bullshit?
+It was so fun
+Jason
+?
+Ari Falkner
+Why does California have to ruin everything?
+Jason
+what?
+oh
+picnic
+i know 😞
+Ari Falkner
+Fuck Jerry Brown
+Jason
+dunno why hog island is still open tho
+Ari Falkner
+Hes a first class idiot
+Jason
+ok i dont think jerry brown is involved in tomales closing
+LOL
+Ari Falkner
+He does other stupid things
+He's the ringleader of the circuw
+Circus
+He passed this new education formulq
+Which gives disadvantaged schools more money
+Jason
+;)
+hm
+Ari Falkner
+But then no directives on how to spend
+
+Jason
+wait
+where are
+Ari Falkner
+?
+Where are what?
+Jason
+oh true
+i dont know
+o dud
+parents buying house
+LOL
+with 2 acres
+gonna raise cows and horses
+Ari Falkner
+Oh shit
+Jason
+LOL
+Ari Falkner
+Really?
+Is it closed?
+Jason
+not yet
+but offers been accepted
+balls on my parents court now
+Ari Falkner
+Oh shit!
+Where?
+Jason
+if they dont find any issues
+it will close
+close to sac
+Ari Falkner
+Oh wat
+Jason
+jsacq
+jacq
+jacqramento
+Ari Falkner
+So like 2 hours away
+Jason
+yeah
+Ari Falkner
+Oh dude
+I come?
+Jason
+it wont be ready for a long time
+house sales are slow
+also they wont move in for a while
+gonna rent it out first
+cuz too far from work
+mom still works
+Ari Falkner
+Oh true
+Jason
+once mom retires they will move
+Ari Falkner
+Is it a nice house?
+Jason
+i havent seen it yet
+mom just told me about it yesterday
+Ari Falkner
+Oh
+Hmm
+Jason
+parents says dad wants sheep
+maybe cows
+and horses
+Ari Falkner
+Ride the horses?
+Jason
+but no pigs
+cuz pigs dirty
+yeah i said ill come ride them lool
+Ari Falkner
+Lol living on a farm is a lot of worj
+But not stressful work
+Just time consuming
+Which is a good way to retire
+Still get responsibilities and purpose
+Maintain your character
+Jason
+its not a farm lool
+2 acres isnt a farm
+its just a big yard
+2 acres prob like size of a small city block
+Ari Falkner
+Yeah
+And no crops
+Which is the major source of stress for farmers
+Jason
+irts like a bit more than half of the uber building
+so about 1/4th of a civic center city block
+nah more like 1/3
+a couple cows at a couple horses
+but nothing huge
+yeah
+its more of a ranch
+Ari Falkner
+I feel like that's not enough
+Maybe for the cows
+But the horses?
+Jason
+apparently the neighbor has a horse
+and it just roams over randomly
+but dad says
+therse antoher option
+theres like horsesitting services
+where someone who owns a horse but doesnt have anhywehre to put it
+would give ou the horse
+you raise it
+and they come and take it away on weekends to ride it
+that might work
+Ari Falkner
+Lol is your dad gonna ride?
+Is he gonna break them?
+Jason
+prob not gonna ride
+break them?
+break the horses
+LOL what
+ugh so sleepy today
+chaima when
+Ari Falkner
+That's what training them means
+Jason
+oh
+break them
+psychologically
+i thought you meant
+he sits on them
+and they collapse
+LOL
+i was like hes not fat
+Ari Falkner
+Lol that's only when Cam's girlfriend sits on them
+Jason
+;)
+caem
+hows caem
+Ari Falkner
+Cam
+Good
+Jason
+cool
+hows people on the team
+i havent seen a lot of them in a while
+like chris jo
+hows chrisjo
+oh did you know he broke up with his gf
+Ari Falkner
+That was 6 months ago...
+Jason
+it was?
+fuck
+how do you know
+out of loop af
+Ari Falkner
+You fomo?
+Jason
+tell quick
+how know
+Ari Falkner
+Uh
+Went up and asked him "how's hi"?
+*ji
+And he said "we broke up"
+Lol
+Jason
+oh ok
+true
+why break up tho
+oh tru
+he didnt want to keep cheating on his true bae
+league
+Ari Falkner
+She was literally out of his league
+Jason
+ehhh
+7/10 premise
+3/10 execution
+joke quality: 4/10
+Jason
+
+Jason
+ari help
+when home tonight
+Castle_on_the_hill.pdf
+print for me
+i need before 8 pm
+Ari Falkner
+11pm
+Jason
+wtf why
+Ari Falkner
+Okay
+I am stopping home by 6:45pm
+Jason
+i can swing by uber to pick it up from you if necessary
+oh are you busy after that?
+Ari Falkner
+Yes
+Jason
+just slide it under my door then
+Ari Falkner
+K
+Jason
+or ask jenny to bring it into my apt
+Ari Falkner
+Lol she won't be there
+If I can't fit it
+I'll put it under your doormat
+Jason
+kk
+i mean she can just go through the keyhole
+and open the door from inside
+Ari Falkner
+True
+Jason
+where going
+Ari Falkner
+https://www.facebook.com/events/2131447257081826/?acontext=%7B%22ref%22%3A%222%22%2C%22ref_dashboard_filter%22%3A%22upcoming%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22dashboard%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22main_list%5C%22%2C%5C%22extra_data%5C%22%3A[]%7D]%22%7D
+
+Tribute to the Rebbe
+Monday, June 26 at 7:15pm
+Richmond Torah Center-Chabad
+2 people interested · 6 going
+Interested
+Jason
+what.
+JUN 26TH, 6:28PM
+
+Jason
+
+
+Ari Falkner
+Is this you?
+Jason
+ya lol
+Ari Falkner
+Why reading algos?
+You already know, right?
+??
+Jason
+look at the picture
+Ari Falkner
+Oh fuck
+Hha
+That is rich
+And insulting
+Jason
+what how is it insulting
+Ari Falkner
+To intellectualism
+Jason
+
+Ari Falkner
+Put the music under your doormat
+Jason
+wait wtf
+i was here
+LOL
+door wasnt even locked
+i was cooking in kitchen
+Ari Falkner
+No time to check
+Jason
+You requested
+55.00
+Status
+Declined·Jun 26th, 7:16pm
+Jason
+b
+Jason
+ok get ready for chaim
+JUN 27TH, 10:23AM
+
+You waved at Ari!
+JUN 28TH, 5:01PM
+
+You waved at Ari!
+Ari Falkner
+
+JUN 28TH, 8:27PM
+
+Jason
+Play	
+-0:20
+Additional Visual SettingsEnter Fullscreen	Unmute
+
+JUN 29TH, 8:34AM
+
+Jason
+ari what doing tonight
+are you hanging out with Jenny
+Ari Falkner
+Lol why?
+Message Jenny
+Jason
+?
+no I'm asking you
+cuz roobin
+let's smoke with roobin
+Ari Falkner
+Roobin is coming back tonight?
+Jason
+ya
+Ari Falkner
+Oooh
+So Jenny is having a party until 10pm
+And I might have drinks with the Rabbi
+But might reschedule that to Monday
+Jason
+o
+wait so smoek with Roobin or no
+also are you hanging out with Jenny?
+would be cool to just get the group together
+the 3 of us haven't smoked in so log
+Ari Falkner
+Lol dude short notice af
+Jason
+happens tho
+I thought you enjoyed spontaneity
+sometimes life happens at a fast pace
+LOL
+Ari Falkner
+Lol yeah but not necessarily kicking a girl I'm dating out at the last minute
+Jason
+wait I was just asking
+if you are hanging out or not
+didnt say
+yo don't hang out with Jenny
+Ari Falkner
+Oh
+Wait
+Lol
+Haha
+Then yeah
+Jason
+loool
+Ari Falkner
+I'm def coming
+Might include Jenny though
+Jason
+does Jenny smoek
+Ari Falkner
+Sometimes
+Jason
+o cool didn't know that
+Ari Falkner
+Hahaha
+Yeah

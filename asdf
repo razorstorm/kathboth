@@ -1,0 +1,268 @@
+Stack Exchange Inbox Reputation and Badges sign up log in tour help
+
+Search Q&A
+
+Ask Different
+Questions
+
+Tags
+
+Users
+
+Badges
+
+Unanswered
+
+Ask Question
+_ Ask Different is a question and answer site for power users of Apple hardware and software. Join them; it only takes a minute:
+
+Sign up
+Here's how it works:
+Anybody can ask a question  Anybody can answer  The best answers are voted up and rise to the top
+How to avoid the GUI password prompt when using `osascript`?
+
+up vote
+4
+down vote
+favorite
+1
+I’d like to use the osascript shell command to run some AppleScript, but I’d rather avoid the GUI password prompt. Instead, I’d prefer to run the script as sudo from the command-line, so no GUI popups/prompts are needed.
+
+The command is the following:
+
+osascript -e 'tell application "System Events" to set UI elements enabled to true'
+Running this command has the same effect as going to System Preferences → Accessibility and checking Enable access for assistive devices.
+
+If it doesn’t prompt for your password, try the opposite:
+
+osascript -e 'tell application "System Events" to set UI elements enabled to false'
+For either one of these commands you’ll get a password prompt in the OS X GUI:
+
+Screenshot
+
+My question is: is there any way to avoid this password prompt?
+
+I assumed invoking osascript with sudo privileges would do the trick, but alas — even in that case the GUI prompt is shown. :(
+
+sudo osascript -e 'tell application "System Events" to set UI elements enabled to true'
+Is there a way around this?
+
+password sudo applescript
+shareimprove this question
+edited Aug 12 '12 at 10:24
+asked Aug 12 '12 at 10:15
+
+Mathias Bynens
+6,804104894
+1
+I don't know if was just an example, but you can also enable access for assistive devices with sudo touch /var/db/.AccessibilityAPIEnabled. – user495470 Aug 12 '12 at 14:56
+1
+@Lri echo -n 'a' | sudo tee /private/var/db/.AccessibilityAPIEnabled > /dev/null 2>&1; sudo chmod 444 /private/var/db/.AccessibilityAPIEnabled (as used here) more closely mimics what enabling the setting in System Preferences does, although it’s not instant (unlike going through SysPrefs manually). Any idea on which service to restart after this command? Anyhow, as you guessed, it was just an example. – Mathias Bynens Aug 12 '12 at 19:44
+add a comment
+1 Answer
+active oldest votes
+up vote
+2
+down vote
+accepted
+You can suppress the password interface by modifying your Mac's authorization rights.
+
+Use the built-in security command line tool or authbuddy to change the system.preferences.accessibility right to allow:
+
+sudo security authorizationdb write system.preferences.accessibility allow
+Opening up the system.preferences.accessibility right will permit any user to change the accessibility settings without a password prompt.
+
+shareimprove this answer
+answered Dec 15 '13 at 13:50
+
+Graham Miln
+19.6k34973
+
+Very cool trick — thanks! Unfortunately this poses a potential security risk, as now any apps could make such changes as well. – Mathias Bynens Dec 15 '13 at 18:47
+
+Only authenticated administrators may alter authorization rights. allow is one of many possible rules to test against and other rules are available to choose from or to create. The security manual page shows how to apply alternatives. – Graham Miln Dec 15 '13 at 19:14
+
+Yes, only authenticated administrators can run the above script (sudo) — but I meant that after that, all apps on the system are able to change accessibility settings at will. – Mathias Bynens Dec 15 '13 at 20:03
+add a comment
+Your Answer
+
+
+
+Sign up or log in
+
+Sign up using Google
+Sign up using Facebook
+Sign up using Email and Password
+
+Post as a guest
+
+Name
+
+Email
+
+required, but never shown
+ Post Your Answer
+By posting your answer, you agree to the privacy policy and terms of service.
+
+Not the answer you're looking for?	Browse other questions tagged password sudo applescript or ask your own question.
+
+asked
+
+4 years, 11 months ago
+
+viewed
+
+5,055 times
+
+active
+
+3 years, 7 months ago
+
+BLOG
+Trends in Cloud Computing: Who Uses AWS, Who Uses Azure?
+Related
+
+12
+How do I reset/recover my superuser password without the boot disk?
+7
+Passing a password to an Automator application
+1
+Can there be different passwords for the same account that prompts a certain reaction from Applescript?
+0
+Mac Reset Password Prompt/Script
+0
+In AppleScript when entering password, is a click required
+7
+Terminal becomes unresponsive when a “sudo” password prompt is displayed
+2
+How to avoid password prompt in terminal?
+0
+Applescript System Event prompts for admin password, when given does not operate correctly.
+0
+macOS: Start Ruby program using `sudo`, use password when calling `security` inside Ruby program
+1
+Require a Password When Woken From Sleep Only When Specifically Requested?
+Hot Network Questions
+
+Apply a wave to an array
+Verify Topology
+Why is std::allocator a template?
+Dealing with PC that constantly lies to NPCs
+Does a one-line email response from a job seeker show a lack of interest?
+Boss is asking for passport, but it has a stamp in it I don't want him to see. What to do?
+Why is there not any bullet wound in this character in Dark Knight Rises?
+Difference between "uptown", "downtown" and "midtown"
+Why can a regular infrared camera not show temperature (thermography)?
+Continuity of mapping sending a function to its (brouwer) fixed point
+Default Dashboard in Salesforce Wave Application
+How can I remove the BOM from a UTF-8 file?
+How to remove text after '-'?
+What's wrong with swimming out far?
+How can I increase focus when doing something boring?
+Why are there so many applicants for PhD programs?
+Why do Hydrogen and Lithium bond, but Hydrogen and Helium don't?
+What is the point of being the head of the department?
+Plural of English abbreviations in German?
+Is it rude to drive at the speed limit on dangerous roads when another driver wants to go faster?
+How would I tell my Father-In-Law that he's being too lenient in disciplining my brother-in-law?
+Colleague shared pirated material. Is it appropriate for our manager to make me tell the colleague to remove it?
+What is a continental breakfast and what other types of breakfasts are there?
+Build me a castle Stairway!
+question feed
+about us
+tour
+help
+blog
+chat
+data
+legal
+privacy policy
+work here
+advertising info
+mobile
+contact us
+feedback
+TECHNOLOGY	LIFE / ARTS	CULTURE / RECREATION	SCIENCE	OTHER
+Stack Overflow
+Server Fault
+Super User
+Web Applications
+Ask Ubuntu
+Webmasters
+Game Development
+TeX - LaTeX
+Software Engineering
+Unix & Linux
+Ask Different (Apple)
+WordPress Development
+Geographic Information Systems
+Electrical Engineering
+Android Enthusiasts
+Information Security
+Database Administrators
+Drupal Answers
+SharePoint
+User Experience
+Mathematica
+Salesforce
+ExpressionEngine® Answers
+Blender
+Network Engineering
+Cryptography
+Code Review
+Magento
+Software Recommendations
+Signal Processing
+Emacs
+Raspberry Pi
+Programming Puzzles & Code Golf
+Ethereum
+Data Science
+Arduino
+more (26)
+Photography
+Science Fiction & Fantasy
+Graphic Design
+Movies & TV
+Music: Practice & Theory
+Worldbuilding
+Seasoned Advice (cooking)
+Home Improvement
+Personal Finance & Money
+Academia
+Law
+more (17)
+English Language & Usage
+Skeptics
+Mi Yodeya (Judaism)
+Travel
+Christianity
+English Language Learners
+Japanese Language
+Arqade (gaming)
+Bicycles
+Role-playing Games
+Anime & Manga
+Puzzling
+Motor Vehicle Maintenance & Repair
+more (32)
+MathOverflow
+Mathematics
+Cross Validated (stats)
+Theoretical Computer Science
+Physics
+Chemistry
+Biology
+Computer Science
+Philosophy
+more (10)
+Meta Stack Exchange
+Stack Apps
+Area 51
+Stack Overflow Talent
+site design / logo © 2017 Stack Exchange Inc; user contributions licensed under
+cc by-sa 3.0
+with
+attribution required
+rev 2017.7.21.26591
+Apple is a trademark of Apple Inc., registered in the US and other countries. This site is not affiliated with or endorsed by Apple Inc. in any way.

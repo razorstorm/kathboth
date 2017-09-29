@@ -1,0 +1,16 @@
+ipython==5.2.1
+requests==2.13.0
+gunicorn==19.6.0
+appdirs==1.4.0
+click==6.7
+Flask==0.12
+itsdangerous==0.24
+Jinja2==2.9.5
+MarkupSafe==0.23
+packaging==16.8
+pyparsing==2.1.10
+six==1.10.0
+Werkzeug==0.11.15
+markovify==0.6.0
+Unidecode==0.4.21
+numpy==1.13.1

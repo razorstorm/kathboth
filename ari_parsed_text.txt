@@ -1,0 +1,1207 @@
+When you throw non real numbers into problems usually done with reals
+That's a good way of modeling quantum behavior
+Hmmm
+I'm bullshitting
+There's rumors about something related to Uber
+Something big
+Takes a year lol
+But like not exactly an IPO
+I tell tonight
+Did you say that to her?
+Yeah
+That's reasonable
+Because he might see you and think you're just doing your plate
+So he's like making sure you do the whole thing
+Oh
+My mom did something kinda similar
+But she would justify things after I agreed
+"can you clean up the living room?"
+"sure Mom"
+"it's just that I'm super stressed out right now and can't keep doing everything myself"
+Guilt tripping is only useful when someone doesn't want to do something
+Now I feel guilty and shitty and I was gonna do it anyway
+Yeah
+What think?
+😠
+1
+TIME CUBE PRINCIPLE - CubicAO
+Time Cube Principle--the CubicAO category that contains articles relating to the conceptual Cubic principles
+No
+The time cube doesn't rotate
+Earth rotates within the timecube
+Really?
+Why does Ryan ignore?
+Won't trust me but believes in invisible Man in the sky
+Every Sunday he gets up early and goes to this big room
+He listens to some decrepit old backwards guy
+Talk about man walking on water
+Guy splitting the sea
+A psychopathic god
+He sings music that has less rhythmic ingenuity than twinkle twinkle Little star
+He sings about how he likes being controlled by an entity more angry, more arbitrary, and more backwards than he
+He likes to visualize this guy watching his every move every day
+Every girl he fucks
+Every shower he takes he imagine this guy watching and recording him
+Is Pandora bar 21+?
+Same person
+But she's 20
+So probably can't
+Only reason wanted to with Ryan's event was because she leaves soon
+Lol true
+It just kinda feels shitty to not ever be able to bring my own friend to events
+So like I can't ever bring friends ever to an event?
+What does "these events" mean?
+Yeah not saying he isn't
+Oh okay
+I agree I went overboard with the Ryan event
+I thought you mean that I can't bring friends to events in general that you and Ryan host
+"just hang out with her then
+like not to these events"
+I thought you mean like "you can hang with your friends but don't invite them to events me and Ryan generally host/organize"
+Right I'm not saying asking is unreasonable
+I thought you were categorically saying "Don't bring your friends to the events I organize"
+Of course you should always ask
+Oh okay
+LOL true
+But you DID invite her to oysters
+Now I'm kinda mad about it
+That I have to deal with tomorrow
+Me
+She will follow me around
+LOL
+IDK that's true
+True
+Yeah
+Oh BTW
+Did you ever check if Stephanie liked her?
+Because when she left she was like "I think Stephanie was super impressed with me"
+Oh hmm
+When back?
+Maybe I invite Hannah then
+3 weeks
+Hannah
+var stack = new Stack()
+l = len(name)
+index = 0;
+while index < len / 2 {
+stack.push(name[index])
+}
+Nevermind
+I can do this in place
+LOL
+No lol
+How is that solving it?
+Oh I was implementing isPalandrome()
+I love how we both thought of the same thing
+No
+This will work with hannha
+Nice
+Gracefully handles differences between even and odd
+Yeag
+Yaeg
+It's me
+Costoco when?
+FOMO
+Nah
+NO it doesn't.
+That's how to not make breaking changes
+For the request schema, you can't go required -> optional
+For the response schema, you can't optional -> require
+Think about it this way:
+If you add a parameter that is actually required but mark it optional, your code will just break your service
+So you'll return a 500 instead of a 400
+If it's not actually required by your code it should have never been required in the first place
+LOL okay sure
+When is he coming?
+Okay coming
+Is Jenny still there?
+Or did she go back to LA?
+Jenny af
+NOOOO
+Now some random girl in socal is gonna think I'm weird af
+Or you bought them
+Okay coming
+This book is bullshit
+It is end-to-end ready
+Thrift you slap over HTTP
+It allows you to use 
+Protobufs is actually an SOA system designed from the ground up
+It's analogous to the tchannel+hyperbahn+thrift suite of software
+The difference is that it actually works really well. And it's really, really fast.
+Ok
+Yeah in like 5 mins
+Do I need to buy?
+Okay
+KKathy
+Doing now
+Shabou
+Shabou called you.
+Call Again
+Oh no
+Hahaha
+???
+So confused
+Oh he said it wouldn't work
+Yeah
+He had a conflict
+Then no mushrooms?
+That is a lot if people tho
+Hmmm
+What about shrooms though?
+But if we do shrooms then they do acid the timing will be off
+Ok
+Hmmm
+4 people is a lot for acid tho
+Lol I guess is fine
+If acid works it can be a very deep emotional experience
+It's important for there to be complete trust and confidence
+Yeah but on a deep level I'm comfortable with him
+Hmmm
+You need to let down your barriers and say whatever is on your mind without fear of being judged
+What frustrated you?
+Yeah. Did you just go with it or were you trying to fight it?
+Hmmm
+Problem is we hit the deepest part in a sushi shop
+And it was relatively weak
+Do you trust Alex?
+Ah. I don't
+I am deeply suspicious of most people
+And Alex?
+Ok
+But like this trip I might wander away at times
+Yeah
+Hmm
+I'm gonna ride through Oakland hills
+And see if there's a good spot
+Nah
+You won't things with complex geometric patterns
+*want
+Yeah
+That's the other problem with beaches
+Hmm that's true
+I prefer feeling secluded
+We talked too much last time
+Yeah that was brae
+True
+Sorry about that
+What?
+About how he's being thirsty a
+AF?
+What about it?
+Haha. Found the third mushroom
+About
+Haha
+Hmm
+When coming?
+About to go moto
+If you can be back by 3pm, we can do
+So then it's a yes?
+Okau
+Sounds good
+Gg park?
+Like we meet at Ava
+Then go
+Hot
+But gg park is cooler
+80s
+Okay
+Okay
+I don't want him to babysit tho
+I talked to Alex
+Wait what doing? Why texting?
+Are parents driving?
+It's a head high
+More visual
+Less visual
+I mean
+More deepEta?
+Come
+Have we made plans for dinner yet?
+Lol wanna chill tho?
+I'm also down to just Uber eats
+Time for more sushi
+I'm not back yet
+I mean in like an hour
+Uber eats delivery is gonna get here before I do
+Mine getting it?
+*mind?
+Heading back right nowFront
+Yeah
+Oh shit
+It's laskie
+Shabou
+Shabou called you.
+Call Again
+He's going back to the front
+Right in front
+Hmmm should I call?Wait
+I'm about to be here
+Okay
+Where is towel?
+And thanks so much for getting
+Okay
+Thanks
+Tiny
+Well you got a week to decide
+It was mild
+Hmmm
+After I wandered around
+Felt like I was wandering through a magical forest
+I walked around the ocean
+Yeah that's why I went for a walk
+Felt like I was wondering through a beautiful garden
+Yeah same
+That's why need to be walking in nature
+Yeah man it was magical
+I only enjoyed after you left
+That would be bad
+Haha. I only felt good after you left
+Not because you left
+That's just when it hit me
+??
+Super interesting essay on the history of mushrooms
+Published in 1957
+Sorry, that link didn't work
+here's the real one: 
+30.00
+oysters
+What is wrong with this sentence: I am growing a mushroom plant?
+We can split
+Okay mushrooms aren't a plant
+PLant means photosynthesis
+It's interesting because mushrooms return matter and nutrients to the soil
+And LSD and shrooms, both fungi, return people back to nature
+Yeah agreed
+I've been doing pottery
+And stuff
+Soma arts center
+Few blocks away from ava
+Doing tonight
+Come?
+$0
+Is every Monday
+Idk I'll ask
+But probably just Monday
+Btw most people get nervous about tripping
+But the visions produce a euphoria
+That distracts from the underlying unease
+If I trip this Sunday, gonna do two tabs
+But if just Jason
+Then I won't do
+Same reasons you mentioned
+But if you actually are tripping
+Don't want to talk that often
+Yeah true
+It's hard because I don't want to talk to people most of the time
+Because you need to be quiet to kick in
+But sometimes you can freak out
+So need friends there
+Natives were very careful about how they used them
+Ture
+The rituals built around using psychedelics makes them magical but comforting
+What is?
+Tooth containers?
+Haha
+Love it
+Do you prefer urban jungle?
+Or nice but dense parts of city
+Like would you like wall street area
+Or like upper west side?
+Sure
+So this is upper west side
+Still plenty of things to do
+But more stately
+Maybe
+But I feel like it will be hipster driven
+Upper west side was gradually built over many years
+So feels grand and stately
+That's why I like Paris
+Super old, stately
+But dense
+Lots to do
+What think?
+Israel also has housing crisis
+That's probably what's preventing peace with Palestinians tbh
+Fuck
+I need to cram Sipser
+My team wants to implement a DFA
+Yes
+Should we add our separate friends to the chat?
+LOL work friends
+Oh true.
+Group chat is better for real-time chat
+When actually on the event or night before
+FB event is good for persistent details
+True
+True
+Thanks for the help
+I still take responsibility for all the planning, but made you co-host so you can invite people and change shit
+Tank
+You waved at Ari!
+You and Ari waved at each other!
+What is chaima salary?
+What
+Yeah but not divulging info online
+i tell in person
+not quiet
+yes
+ooooh
+how recently?
+lol
+why did he forfeit stocks?
+so dumb
+???
+Not leave
+Was probably like $2 million?
+At least one million
+$5 million?
+Yeah you can probably get loans
+Try to sell on secondary market
+Anything but sell them!!!
+A sure bet of how much money?
+That's a false dichotomy. Not only would waiting be a better compromise between money and opportunity, it also allows more meaning
+Like that didn't work out
+So now he has to go back to a boring job at flexport
+Whereas if he was rich af, he could just afford to start something else
+Ah
+Sounded pretty boring tbh
+It was for mgmt, right?
+Will taz retaliate?Hmm okay
+How does Blend do perf?
+Maybe they just Blend the entire team together
+Everyone arimoosters.
+He kinda invited himself
+He's going back to Minnesota though
+Lol yeah it is my event
+But I mostly decided it didn't matter cause you weren't coming and Jason Libbey was for it
+True
+I didn't!
+I know!
+True
+Oh good
+Oh god
+Imagine tripping with Jenny
+The difference is that James isn't as self absorbed
+He does like to brag and show off
+But he doesn't always just redirect the convo to himself
+Hmm
+They both are a bit unsettling
+BTW Redux is actually just a state monad
+YeahLiang is pretty down
+Let me check
+Yeah will do
+Yeah sure
+Jacq?
+Not angry at her anymore
+Haha girl scouts don't camp
+BTW are you gonna message anqi and jacq?
+Cause anqi hates me
+No
+Just assume all of Jacq's friends hate me
+True
+No one except for Jason and Connie liked Jenny
+haha I messaged Vicki
+I think Jenny was well behaved the night she met Connie
+And she's not as bad 1:1
+Cause like half of the reason she's brae is because she chooses shit conversation topics
+But what really makes people HATE her is when 1. they are against the flow of the conversation 2. when the conversation doesn't change to flow in the direction of the topics no one else wants to talk about, she individually tries to divide the conversation participants by engaging them individually.
+2. is the really brae one. She did it to me when we were dating all the time but I just thought it was because we were dating
+Like still brae
+But girls sometimes do that
+And was just gonna take her up on it later
+But like didn't realize she did it to everyone
+Yeah Angie does it a lot
+But not as fiercely as Jenny
+Yeah same
+And the topics she does it with aren't bad though
+Yeah same
+Damn
+HmmBook 1 night or 2 nights?
+It has a shower facility
+No it doesn't.
+But nearby
+Liang's friend
+Why did I invite Jing camping?
+Liang = Jing
+Looks wise
+Eh
+Can't say about yichen
+No
+Liang is fobby in the sense that she's a bit quiet and speaks in a Chinese accent
+She's quiet
+But not anti social
+Participates in conversations and stuff
+Just doesn't always contribute the most
+Like she's nods and reacts and occasionally pipes in
+But isn't like super loud
+Haha
+Nah
+Xiaowei?
+Yeah true. Hmm, maybe Austin level
+Like not social skills of Austin
+Frequency of him
+Or bin
+Dude it's like 2 months from now
+Wanna go before then?
+Oh dude
+Where?
+Lol down for that
+But gonna go camping in two weeks
+Just me
+Why not? Get to hang around on the wilderness
+Go swimming
+Oh hmmm
+No not
+Like he's not the guy who wouldn
+'t consider it and maybe experiment a little
+He's a curious and adventurous person
+But like I don't think he is any less straight than the rest of us
+I told you before that I'm not completely straight
+But still not down to try it
+Yeah
+Question is
+Am I a bit bi? Or are you just like super straight?
+That's the question
+I'm like a 7 or 7.5
+Oh then I'm 2.5-3
+Eh I'm not even in that state
+Like I'm not down to try
+But maybe that's just because don
+too nervous
+WHo knows
+Not how it works though
+Doesn't mean frequency
+means amplitude
+Well means both
+Nice!!
+Haha
+Where?
+I come to date
+With decoy mustache
+Oh really
+Nice
+Yes
+Does chaima do LSD?
+K
+I'm not gonna tho
+Moto tomorrow
+Yes
+Wait meet at 5:15
+Where?
+Still at ipot
+Leaving
+Where?
+Ari's Location
+Not sure
+Not soon
+Haha yeah
+Probably
+Lol
+I thought you meant no Jenny
+I see. We can def arrange Bros only night too. But I don't think that would work tonight
+Hahahaha no I get why it's scary
+It's something you don't want to touch
+Ikd
+Idk
+Had a dream about ghosts once
+Kept trying to touch me
+So I talked to Kartik about how he deals with nested functions and syntax
+He said the goal is to conceptually understand the code
+He can infer where the curly braces are just be understanding the logic
+So it doesn't really read out the syntax to him
+It just reads the word parts
+And he knows the language
+So can guess what it actually looks like
+Same for closures
+Like he can conceptually tell by how the code works what a closure would be
+Right so then he can turn on the syntax
+It even has a mode where it reads out how many spaces there are before the line
+I'm on call
+Fuck kinda want to try it if we go camping
+No like I might take Jenny camping
+It is July 4-11
+I might wanna get more
+I wish I got contact info?
+Maybe I can trip while you do shrooms?
+Tell who?
+Where?
+So no hangout?
+Just went to bar
+Hung with Connie and Jenny
+Yeah
+Can you send me your camping list?
+Yes of shit to bring
+The Google doc
+There wasn't a camping checklist for Costco?
+Supplies for Camping
+Essentials Tents Emily Brings one (fits 3) + Ari buy one Sleeping bags Newspapers for kindling Emily Airmattresses Robin bring a bunch? Swimming trunks Everyone bring their own towel Food Burger Patties Costco Hotdogs Costco Hotdog buns Costco Marshmallow...
+Does costco sell camping stoves?
+FOMO
+What doing?
+Chaima af
+I come chaim?
+Oh dude
+Jason shen af
+Tell him congrats for me
+Also Kartik is really good
+He seems to operate just as fast as any normal eng
+Wait Jason
+Did you leave yet?
+I want the sleeping bag
+No? I took one
+I want two
+Kk
+Definitely done that before
+This is approaching eugenics
+Haha
+Not a Costco bag
+I'm just borrowing
+Idk
+No one will say
+Nope
+Workday
+And Koushik
+I don't remember
+But I talked to him about it
+He said eng1 to me
+FOMO
+Taz said she isn't putting me up
+Okay sorry about that
+Yeah sure
+Y'all coming at 9?
+Hanging with Nick, Chris, and amu
+ETA 5 min
+Wait gotta pick up condoms
+Jason come
+I'm at door
+Shabou
+You missed a call from Shabou.
+Call Back
+Roobin
+Roobin
+Walking to work
+Why ask?
+TriggeredWait how do I come?
+Who's letting you in?
+How do you get in without me coming?
+Hanging with James
+We hang soon
+Yeah so?
+I come to work at 9am bro
+I also work at 9am
+I just don't need much sleep
+Yeah
+Idk
+Idk if I ever did
+Just did it
+No motivation
+And a bit depressed
+New team is fun
+Fun but not super partt
+Chill people and technically very strong
+But not opinionated or arrogant
+But not super broey or anything
+Manager invited us to come chill at his house though
+I wish was more down to party
+But good for career development in long term
+I mean never asked. But not part of culture
+Everyone leaves at 6pm
+Lol true
+Idk why
+Maybe will try soon
+Kinda new to team so don't want to try it yet
+But maybe in 1-2 weeks when people get back from OOO
+To get drinks
+It's a step
+It's never gonna be Uber 2015
+No plans
+Why?
+Nah on call
+Can I invite the blind intern to oysters?
+Ah
+It looks fun
+Okay
+Lol much better than diesel
+Diesel uses air
+So couldn't be under water
+Yeah
+Did diesel charge the battery?
+Wow
+Sounds like civ in a sense
+Hahahaha
+Really? Console.log is new?
+But it's not part of ecma?
+Oh god
+Because not all browsers had console?
+Oh god
+What if kenan comes to brisket?
+Okay
+Chyll
+Lol hanging with kenan first
+Not gonna be there rn
+No clie
+Clue
+Kenan is coming with me
+Okay if I can get some brisket
+K
+Abv
+Leaving soon
+Is Dolores gonna have food?
+We gonna motorcycle there
+Not gonna really
+We gonna go to Palo Alto for a pool party
+1pm or so
+Might drink a beer or two
+😮
+1
+Be there in 20
+50.00
+you and jenny
+We here
+??
+Fuck
+Got it died?
+At Palo Alto
+True
+Sure
+When?
+Be back in SF on an hour
+Okay
+What is plan?
+I'm at fisherman's wharf
+Should I head over?
+ETA like 10 min
+Kk
+Kk
+Kk
+What is loud?
+Pride?
+Fuck it says ETA 30
+Min
+Fuck I missed the exit
+15 min eta
+Ari's Location
+Pick up phone
+Yes I do but for my bedroom
+Can I get my Camelback?
+In your main room?
+How Rusty?
+But like the one of your car from two years ago was pretty good
+Kk
+So mad
+Wtf is this bullshit?
+It was so fun
+Why does California have to ruin everything?
+Fuck Jerry Brown
+Hes a first class idiot
+He does other stupid things
+He's the ringleader of the circuw
+Circus
+He passed this new education formulq
+Which gives disadvantaged schools more money
+But then no directives on how to spend
+?
+Where are what?
+Oh shit
+Really?
+Is it closed?
+Oh shit!
+Where?
+Oh wat
+So like 2 hours away
+Oh dude
+I come?
+Oh true
+Is it a nice house?
+Oh
+Hmm
+Ride the horses?
+Lol living on a farm is a lot of worj
+But not stressful work
+Just time consuming
+Which is a good way to retire
+Still get responsibilities and purpose
+Maintain your character
+Yeah
+And no crops
+Which is the major source of stress for farmers
+I feel like that's not enough
+Maybe for the cows
+But the horses?
+Lol is your dad gonna ride?
+Is he gonna break them?
+That's what training them means
+Lol that's only when Cam's girlfriend sits on them
+Cam
+Good
+That was 6 months ago...
+You fomo?
+Uh
+Went up and asked him "how's hi"?
+*ji
+And he said "we broke up"
+Lol
+She was literally out of his league
+11pm
+Okay
+I am stopping home by 6:45pm
+Yes
+K
+Lol she won't be there
+If I can't fit it
+I'll put it under your doormat
+True
+Tribute to the Rebbe
+Monday, June 26 at 7:15pm
+Richmond Torah Center-Chabad
+2 people interested · 6 going
+Interested
+Is this you?
+Why reading algos?
+You already know, right?
+??
+Oh fuck
+Hha
+That is rich
+And insulting
+To intellectualism
+Put the music under your doormat
+No time to check
+Lol why?
+Message Jenny
+Roobin is coming back tonight?
+Oooh
+So Jenny is having a party until 10pm
+And I might have drinks with the Rabbi
+But might reschedule that to Monday
+Lol dude short notice af
+Lol yeah but not necessarily kicking a girl I'm dating out at the last minute
+Oh
+Wait
+Lol
+Haha
+Then yeah
+I'm def coming
+Might include Jenny though
+Sometimes
+Hahaha
+Yeah
+FOMO
+FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+FOMO FOMO FOMO FOMO FOMO FOMO
+
