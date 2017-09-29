@@ -13,6 +13,8 @@ app = Flask(__name__)
 token = 'EAAXSUovhrQkBAOOI66uZCc6MZAtXGlxShvWKRz20fwbxWCl8ah3iYcv5YFxcY27093rnMZBbMxgt1Nvx4TZB3yQkMBjhmaNN0zIdYysIVDZC4lWsESN7LMnRqXdol5JpJezSLDwSogiFrsIDf7xlam2JZBdQbH8OUrjKXnhddlowZDZD'  # noqa
 ARI_TEXT_AVERAGE_LENGTH = 22
 
+text = None
+
 
 @app.route('/receive', methods=['GET'])
 def serve():
@@ -26,11 +28,13 @@ def serve():
 
 def generate_kath_speech():
     # Get raw text as string.
-    with open("kath_parsed_text.txt") as f:
-        text = f.read()
+    global text
+    if not text:
+        with open("kath_parsed_text.txt") as f:
+            text = f.read()
 
     text_models = []
-    for i in range(3):
+    for i in range(5):
         # Build the models
         text_models.append(markovify.Text(text, state_size=i))
 
@@ -40,9 +44,9 @@ def generate_kath_speech():
     sentences = []
     for i in range(num_sentences):
         # Make a random choice on which model to use
-        chosen_text_model = text_models[random.randint(0, 2)]
-        # Generate sentences of half average length to 8x average length
-        sentences.append(chosen_text_model.make_short_sentence(max_chars=ARI_TEXT_AVERAGE_LENGTH*8, min_chars=ARI_TEXT_AVERAGE_LENGTH/2, tries=1000))
+        chosen_text_model = text_models[random.randint(0, 5)]
+        # Generate sentences certain length
+        sentences.append(chosen_text_model.make_short_sentence(max_chars=ARI_TEXT_AVERAGE_LENGTH*7, min_chars=ARI_TEXT_AVERAGE_LENGTH/3, tries=1000))
 
     sentences = " ".join(sentences)
 
