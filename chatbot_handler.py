@@ -10,23 +10,23 @@ from flask import request, Flask
 
 app = Flask(__name__)
 
-token = 'EAAGAJhMhKRABAFbFsT55sDbAfalbtB2ZCZCbEzxZARGZBGVgARFTslOfQGTCLmIWV1zN7KbUY2qezIGmrobdbA2HkCvKo7gerksQbXhKpkhgteqCZA3R98M0XFZAwZCHdO7F2hUaRkxT9elEqF7NyqRFmaEP0g1dZA4IJsWfmX5tTwZDZD'  # noqa
-ARI_TEXT_AVERAGE_LENGTH = 23
+token = 'EAAXSUovhrQkBAOOI66uZCc6MZAtXGlxShvWKRz20fwbxWCl8ah3iYcv5YFxcY27093rnMZBbMxgt1Nvx4TZB3yQkMBjhmaNN0zIdYysIVDZC4lWsESN7LMnRqXdol5JpJezSLDwSogiFrsIDf7xlam2JZBdQbH8OUrjKXnhddlowZDZD'  # noqa
+ARI_TEXT_AVERAGE_LENGTH = 22
 
 
 @app.route('/receive', methods=['GET'])
 def serve():
     if (
         request.args.get('hub.mode') == 'subscribe' and
-        request.args.get('hub.verify_token') == 'moo'
+        request.args.get('hub.verify_token') == 'kath'
     ):
         return request.args.get('hub.challenge')
-    return 'arimooster'
+    return 'kath'
 
 
-def generate_ari_speech():
+def generate_kath_speech():
     # Get raw text as string.
-    with open("ari_parsed_text.txt") as f:
+    with open("kath_parsed_text.txt") as f:
         text = f.read()
 
     text_models = []
@@ -54,7 +54,7 @@ def receive():
     print(request.data)
     data = json.loads(request.data)
 
-    sentences = generate_ari_speech()
+    sentences = generate_kath_speech()
 
     try:
         for entry in data['entry']:

@@ -2,7 +2,7 @@ import markovify
 import numpy as np
 
 # Get raw text as string.
-with open("ari_parsed_text.txt") as f:
+with open("kath_parsed_text.txt") as f:
     text = f.read()
 
 # Build the model.

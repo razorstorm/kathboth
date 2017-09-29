@@ -1,4 +1,4 @@
-fh = open("ari_parsed_text.txt", "r")
+fh = open("kath_parsed_text.txt", "r")
 contents = fh.readlines()
 
 total_lengths = 0
