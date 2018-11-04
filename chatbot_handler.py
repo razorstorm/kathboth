@@ -34,7 +34,7 @@ def generate_kath_speech():
             text = f.read()
 
     text_models = []
-    for i in range(5):
+    for i in range(6):
         # Build the models
         text_models.append(markovify.Text(text, state_size=i))
 
