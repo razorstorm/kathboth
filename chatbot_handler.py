@@ -10,7 +10,7 @@ from flask import request, Flask
 
 app = Flask(__name__)
 
-token = 'EAAXSUovhrQkBAOOI66uZCc6MZAtXGlxShvWKRz20fwbxWCl8ah3iYcv5YFxcY27093rnMZBbMxgt1Nvx4TZB3yQkMBjhmaNN0zIdYysIVDZC4lWsESN7LMnRqXdol5JpJezSLDwSogiFrsIDf7xlam2JZBdQbH8OUrjKXnhddlowZDZD'  # noqa
+token = 'EAAXSUovhrQkBAJfw0cqLd1bZCpZBn9564eLqucEuJPPyZC1Gqy0AQvx6F0twfcnjtG4ZC5Ui9CFLj33cVJeS6ih86gVFYFtuzWzyGBf7SSvSO7oQHef86YMbZASBmDsPROqOktQciCs0UNfCmIFDkiseWmLM5PzHZAUhU95zx2dQZDZD'  # noqa
 ARI_TEXT_AVERAGE_LENGTH = 22
 
 text = None
